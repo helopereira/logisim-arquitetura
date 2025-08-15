@@ -47,8 +47,3 @@ Este repositório serve como material de estudo e referência para:
 1. Abra o Logisim.
 2. Carregue o arquivo `.circ`.
 3. Explore e simule cada circuito conforme seu interesse.
-
----
-
-**Autor:** [Heloísa Pereira dos Santos]  
-**Disciplina:** Arquitetura de Computadores
